@@ -10,7 +10,7 @@ Overall, the No-Plan Pantry project combines data science, natural language proc
 
 First, please clone this resposity to your computer. You can do so by running the following code on your terminal.
 ```
-git clone https://github.com/jade-y-liang/no-plan-pantry.git
+git clone https://github.com/JunyingLLL/No-Plan-Pantry.git
 ```
 
 Then run the following code on your terminal.
